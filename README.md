@@ -10,7 +10,7 @@ The Restaurant Management System is a simple web application developed using the
 ## Data Flow
 The data flow in the Restaurant Management System follows a simplified architecture without the use of a service layer. Here's an overview of the data flow:
 
-### Controller: The RestaurantController class serves as the entry point for handling incoming HTTP requests. It receives requests from clients, processes them, and directly performs the required operations on the restaurant data.
+Controller: The RestaurantController class serves as the entry point for handling incoming HTTP requests. It receives requests from clients, processes them, and directly performs the required operations on the restaurant data.
 
 ## Data Structure Used
 
